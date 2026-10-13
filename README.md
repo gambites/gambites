@@ -1,4 +1,6 @@
-.
+<div align="center">
+<img src="https://komarev.com/ghpvc/?gambites=rishavanand&&style=flat-square" align="center" />
+</div>  
 
 <!--
 **gambites/gambites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
