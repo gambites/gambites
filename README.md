@@ -1,4 +1,4 @@
-## Hi there 👋
+![Profile view counter on Github](https://komarev.com/ghpvc/?username=gambites)
 
 <!--
 **gambites/gambites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
